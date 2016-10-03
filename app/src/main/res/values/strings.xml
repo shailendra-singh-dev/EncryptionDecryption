@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EncryptionDecryption</string>
+    <string name="json">{
+                "weather":
+                            {
+                            "id": 802,
+                            "main": "Clouds",
+                            "description": "scattered clouds",
+                            "icon": "03d"
+                            }
+
+                }
+    </string>
+</resources>
